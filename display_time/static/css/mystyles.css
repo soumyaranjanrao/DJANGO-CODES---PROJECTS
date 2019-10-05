@@ -1,0 +1,11 @@
+ body{
+            background: linear-gradient(45deg,hotpink,orangered);
+            margin: 0;
+            padding: 0;
+        }
+        h1,h2,h4{
+            text-align: center;
+            font-family: "Comic Sans MS",sans-serif;
+            color: black;
+            padding: 40px;
+        }
